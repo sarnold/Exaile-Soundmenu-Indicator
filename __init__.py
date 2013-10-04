@@ -87,7 +87,7 @@ def _delete_event(window, event, exaile):
     """ window behavior on closing, according to sound menu spec:
         https://wiki.ubuntu.com/SoundMenu
         """
-    if exaile.player.is_playing():
+    if PLAYER.is_playing():
         window.hide()
     else:
         exaile.gui.main.quit()
