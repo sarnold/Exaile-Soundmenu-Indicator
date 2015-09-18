@@ -122,7 +122,7 @@ MPRIS2_INTROSPECTION = \
             <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="true"/>
         </property>
         <property name="Volume" type="d" access="readwrite">
-            <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="false"/>
+            <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="true"/>
         </property>
         <property name="Position" type="x" access="read">
             <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="false"/>
