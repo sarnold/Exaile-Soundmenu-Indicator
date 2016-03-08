@@ -1,7 +1,7 @@
 Exaile Sound Menu Indicator
 ===========================
 
-This plugin enables [Exaile][exaile] to be controlled from [Ubuntu sound menu][soundmenu], [Media Player extension][gs-mediaplayer] for GNOME Shell, and other MPRIS clients. It mostly implements the [MPRIS v2.1 specification][mpris].
+This plugin enables [Exaile][exaile] to be controlled from [Xfce4 soundmenu plugin][xfce4-soundmenu-plugin], [Ubuntu sound menu][soundmenu], [Media Player extension][gs-mediaplayer] for GNOME Shell, and other MPRIS clients. It mostly implements the [MPRIS v2.1 specification][mpris].
 
 To install, copy the entire directory under `~/.local/share/exaile/plugins/`, then enable the plugin in Exaile preferences.
 
