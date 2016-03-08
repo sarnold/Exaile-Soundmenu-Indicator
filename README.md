@@ -1,3 +1,8 @@
+[![plugin License](https://img.shields.io/badge/license-GPL2-blue.svg?dummy)](https://github.com/sarnold/Exaile-Soundmenu-Indicator/blob/master/Exaile-Soundmenu-Indicator/COPYING)
+[![GitHub version](https://badge.fury.io/gh/sarnold%2FExaile-Soundmenu-Indicator.svg)](https://badge.fury.io/gh/sarnold%2FExaile-Soundmenu-Indicator)
+[![Code Climate](https://codeclimate.com/github/sarnold/Exaile-Soundmenu-Indicator/badges/gpa.svg)](https://codeclimate.com/github/sarnold/Exaile-Soundmenu-Indicator)
+[![Github Issues](http://githubbadges.herokuapp.com/sarnold/Exaile-Soundmenu-Indicator/issues.svg?style=flat-square&dummy)](https://github.com/sarnold/Exaile-Soundmenu-Indicator/issues)
+
 Exaile Sound Menu Indicator
 ===========================
 
